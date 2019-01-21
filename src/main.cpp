@@ -28,8 +28,13 @@ int main(int argc, char **argv)
 {
     QApplication app(argc, argv);
 
-    int width = 640;
+   /* int width = 640;
     int height = 480;
+    int fps = 30;
+    int tcp = 0;*/
+    
+    int width = 512;
+    int height = 424;
     int fps = 30;
     int tcp = 0;
 
